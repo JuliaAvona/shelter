@@ -19,4 +19,5 @@ JavaScript to add page interactivity:
       - infinite carousel slider on `main` page
       - pagination on `pets` page
 
+[Link deploy:](https://juliaavona.github.io/shelter/pages/main/index.html)
 [Layout in figma](https://www.figma.com/file/Yk6EnbY63FyG2PJTFkJDMh/shelter)
