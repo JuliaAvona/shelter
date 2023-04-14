@@ -3,6 +3,8 @@
 ## Description of the project
 Shelter - a site consisting of two pages (adaptive and interactive)
 
+<img width="1313" alt="1" src="https://user-images.githubusercontent.com/94717941/232163363-884338a4-8125-4498-a833-ca3c74498740.png">
+
 ## Key skills:
 - valid semantic adaptive layout
 - easy to maintain readable code
