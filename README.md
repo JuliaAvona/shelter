@@ -17,9 +17,10 @@ Shelter - a site consisting of two pages (adaptive and interactive)
 ## Website functionality:
 - fixed layout 1280px, 768px, 320px;
 - at any width, the entire page with content fits in width into the browser window, there is no horizontal scroll bar;
-- semantically - valid layout;
-JavaScript to add page interactivity:
-      - burger menu on both pages
-      - popup for animal cards on both pages
-      - infinite carousel slider on `main` page
-      - pagination on `pets` page
+- semantically - valid layout;  
+  
+## JavaScript to add page interactivity:
+- burger menu on both pages  
+- popup for animal cards on both pages  
+- infinite carousel slider on `main` page  
+- pagination on `pets` page  
