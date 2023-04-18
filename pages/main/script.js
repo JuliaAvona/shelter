@@ -255,7 +255,6 @@ window.addEventListener("DOMContentLoaded", function () {
 
   prev.addEventListener("click", function () {
     --countSlides;
-    console.log(countSlides);
     if (countSlides === -2 || countSlides === 2) {
       countSlides = 0;
       plusSlides(-3);
@@ -267,7 +266,6 @@ window.addEventListener("DOMContentLoaded", function () {
 
   next.addEventListener("click", function () {
     ++countSlides;
-    console.log(countSlides);
     if (countSlides === -2 || countSlides === 2) {
       countSlides = 0;
       plusSlides(3);
@@ -372,7 +370,3 @@ window.addEventListener("DOMContentLoaded", function () {
       ".modal-button"
     ).render();
   }
-
-  //Score
-  console.log("Самооценка - 106/110 - не выполнен пункт - сохраняется только одно предыдущее состояние. Т.е. при последовательном переходе два раза влево, а потом два раза вправо, мы получим набор карточек, отличный от исходного");
-});
